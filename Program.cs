@@ -43,10 +43,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 
 var builder = WebApplication.CreateBuilder(args);
-var dbPath = builder.Environment.IsDevelopment()
-    ? "Data Source=Equinox.db"
-    : "Data Source=D:\\home\\data\\Equinox.db";
-
+//var dbPath = builder.Environment.IsDevelopment()
+// ? "Data Source=Equinox.db"
+// : "Data Source=D:\\home\\data\\Equinox.db";
+var dbPath = "Data Source=D:\\home\\data\\Equinox.db";
 builder.Services.AddDbContext<EquinoxContext>(options =>
     options.UseSqlite(dbPath));
 
