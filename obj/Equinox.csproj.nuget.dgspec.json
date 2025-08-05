@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ARUN\\OneDrive\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\ARUN\\OneDrive\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
         "packagesPath": "C:\\Users\\ARUN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ARUN\\OneDrive\\Equinox_updated_8_3_2025\\Equinox\\obj\\",
+=======
+    "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
+        "projectName": "Equinox",
+        "projectPath": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
+        "packagesPath": "C:\\Users\\ARUN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\obj\\",
+>>>>>>> dc69ecd (Update project files)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ARUN\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,3 @@
+git remote -vgit add .
+git rebase --continue
+git pull origin main
