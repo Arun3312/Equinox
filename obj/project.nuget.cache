@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "O81ez+o9YAg=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ARUN\\OneDrive\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
-=======
   "dgSpecHash": "fRJak9ZPrRc=",
   "success": true,
   "projectFilePath": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
->>>>>>> dc69ecd (Update project files)
   "expectedPackageFiles": [
     "C:\\Users\\ARUN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ARUN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -59,5 +53,15 @@
     "C:\\Users\\ARUN\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512",
     "C:\\Users\\ARUN\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ARUN\\OneDrive\\aspnet_core_mvc\\Phase 3\\Equinox_updated_8_3_2025\\Equinox\\Equinox.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
